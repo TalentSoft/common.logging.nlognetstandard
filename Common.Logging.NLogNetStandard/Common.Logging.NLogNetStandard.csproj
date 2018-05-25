@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>.NET Standard compatible Common.Logging adapter for NLog</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.0-alpha</Version>
+    <Authors>Talentsoft</Authors>
+    <Company>Talentsoft</Company>
+    <PackageProjectUrl>https://bitbucket.org/talentsoft/common.logging.nlognetstandard</PackageProjectUrl>
+    <RepositoryUrl>https://bitbucket.org/talentsoft/common.logging.nlognetstandard</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Common.Logging" Version="3.4.1" />
+    <PackageReference Include="NLog" Version="4.5.0-rc05" />
+  </ItemGroup>
+</Project>
