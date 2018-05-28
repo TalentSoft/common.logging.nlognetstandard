@@ -1,0 +1,2 @@
+# 1.0.0
+This NLog adapter for Common.Logging is originally from the Common.Logging project, with some modifications to make it compatible with .NET standard. See https://github.com/net-commons/common-logging for the original source code.
