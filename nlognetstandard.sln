@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolutionPackages", ".nuget\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Properties", "Properties", "{FA5EE7DA-8BC3-4D9A-B1EE-FA3FB78C2C6E}"
 	ProjectSection(SolutionItems) = preProject
-		Properties\Common.Logging.NLogNetStandard.props = Properties\Common.Logging.NLogNetStandard.props
+		Properties\nlognetstandard.props = Properties\nlognetstandard.props
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Logging.NLogNetStandard.Nunit", "Common.Logging.NLogNetStandard.Nunit\Common.Logging.NLogNetStandard.Nunit.csproj", "{D1E7687F-6C40-4A3D-9F2F-C707ADA9B14C}"
